@@ -7,6 +7,6 @@
   "printWidth": 100,
   "Semicolons": true,
   "bracketSpacing": true,
-  "bracketSameLine": true,
+  "bracketSameLine": false,
   "arrowParens": "always"
 }
